@@ -1,2 +1,2 @@
-# Colllege-Management-System
+# College-Management-System
 This is Spring boot project : College Management System
